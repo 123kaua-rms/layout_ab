@@ -79,6 +79,19 @@ main{
     background-color: lightgrey;
     border-radius: 50%;
 }
+.img1{
+    background-image: url(./Instagram_icon.png);
+    background-size: cover;
+}
+.img2{
+    background-image: url(./simbolo-da-mensagem-do-telefone_78370-6563.avif);
+    background-size: cover;
+}
+.img3{
+    background-image: url(./face.png);
+    background-size: cover;
+}
+
 
 .destaque{
     width: 45%;
